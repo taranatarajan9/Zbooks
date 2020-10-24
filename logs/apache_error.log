@@ -1,0 +1,159 @@
+[Sun Jun 24 22:14:33 2018] [notice] Digest: generating secret for digest authentication ...
+[Sun Jun 24 22:14:33 2018] [notice] Digest: done
+[Sun Jun 24 22:14:33 2018] [notice] FastCGI: process manager initialized (pid 6997)
+[Sun Jun 24 22:14:33 2018] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.1 mod_ssl/2.2.34 OpenSSL/1.0.2j DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Sun Jun 24 22:14:35 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/docs-assets, referer: http://localhost:8888/MAMP/?language=English
+[Sun Jun 24 22:14:58 2018] [notice] caught SIGTERM, shutting down
+[Mon Jun 25 11:32:37 2018] [notice] Digest: generating secret for digest authentication ...
+[Mon Jun 25 11:32:37 2018] [notice] Digest: done
+[Mon Jun 25 11:32:37 2018] [notice] FastCGI: process manager initialized (pid 1737)
+[Mon Jun 25 11:32:37 2018] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.1 mod_ssl/2.2.34 OpenSSL/1.0.2j DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Mon Jun 25 11:32:38 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/docs-assets, referer: http://localhost:8888/MAMP/?language=English
+[Mon Jun 25 11:33:52 2018] [notice] caught SIGTERM, shutting down
+[Mon Jun 25 11:33:59 2018] [notice] Digest: generating secret for digest authentication ...
+[Mon Jun 25 11:33:59 2018] [notice] Digest: done
+[Mon Jun 25 11:33:59 2018] [notice] FastCGI: process manager initialized (pid 1971)
+[Mon Jun 25 11:33:59 2018] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.1 mod_ssl/2.2.34 OpenSSL/1.0.2j DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Mon Jun 25 11:42:26 2018] [error] [client ::1] File does not exist: /Applications/MAMP/bin/mamp/soft-dev
+[Mon Jun 25 11:42:40 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/tara
+[Mon Jun 25 21:26:06 2018] [notice] caught SIGTERM, shutting down
+[Mon Jun 25 21:43:22 2018] [notice] Digest: generating secret for digest authentication ...
+[Mon Jun 25 21:43:22 2018] [notice] Digest: done
+[Mon Jun 25 21:43:22 2018] [notice] FastCGI: process manager initialized (pid 3482)
+[Mon Jun 25 21:43:22 2018] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.1 mod_ssl/2.2.34 OpenSSL/1.0.2j DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Mon Jun 25 21:43:33 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/test
+[Mon Jun 25 21:43:48 2018] [error] [client ::1] File does not exist: /Applications/MAMP/bin/mamp/test
+[Mon Jun 25 21:44:00 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/desktop
+[Mon Jun 25 21:44:06 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/Desktop
+[Mon Jun 25 21:45:00 2018] [error] [client ::1] File does not exist: /Applications/MAMP/bin/mamp/soft-dev
+[Mon Jun 25 21:45:09 2018] [notice] caught SIGTERM, shutting down
+[Mon Jun 25 21:45:15 2018] [notice] Digest: generating secret for digest authentication ...
+[Mon Jun 25 21:45:15 2018] [notice] Digest: done
+[Mon Jun 25 21:45:15 2018] [notice] FastCGI: process manager initialized (pid 3750)
+[Mon Jun 25 21:45:15 2018] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.1 mod_ssl/2.2.34 OpenSSL/1.0.2j DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Mon Jun 25 21:47:18 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/test
+[Mon Jun 25 21:50:15 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/soft-dev/index
+[Mon Jun 25 21:55:49 2018] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store, referer: http://localhost:8888/soft-dev/
+[Mon Jun 25 21:58:53 2018] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store, referer: http://localhost:8888/soft-dev/
+[Mon Jun 25 21:59:22 2018] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store, referer: http://localhost:8888/soft-dev/
+[Tue Jun 26 12:05:42 2018] [notice] caught SIGTERM, shutting down
+[Tue Jun 26 17:55:55 2018] [notice] Digest: generating secret for digest authentication ...
+[Tue Jun 26 17:55:55 2018] [notice] Digest: done
+[Tue Jun 26 17:55:55 2018] [notice] FastCGI: process manager initialized (pid 9618)
+[Tue Jun 26 17:55:55 2018] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.1 mod_ssl/2.2.34 OpenSSL/1.0.2j DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Tue Jun 26 17:56:07 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/array
+[Tue Jun 26 17:56:16 2018] [error] [client ::1] script '/Applications/MAMP/htdocs/index.php' not found or unable to stat
+[Tue Jun 26 17:56:24 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/htdocs
+[Tue Jun 26 17:56:39 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/soft-dev/array
+[Wed Jun 27 05:20:21 2018] [notice] caught SIGTERM, shutting down
+[Wed Jun 27 05:20:27 2018] [notice] Digest: generating secret for digest authentication ...
+[Wed Jun 27 05:20:27 2018] [notice] Digest: done
+[Wed Jun 27 05:20:27 2018] [notice] FastCGI: process manager initialized (pid 10722)
+[Wed Jun 27 05:20:27 2018] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.1 mod_ssl/2.2.34 OpenSSL/1.0.2j DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Wed Jun 27 05:21:22 2018] [notice] caught SIGTERM, shutting down
+[Wed Jun 27 05:22:38 2018] [notice] Digest: generating secret for digest authentication ...
+[Wed Jun 27 05:22:38 2018] [notice] Digest: done
+[Wed Jun 27 05:22:38 2018] [notice] FastCGI: process manager initialized (pid 10980)
+[Wed Jun 27 05:22:38 2018] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.1 mod_ssl/2.2.34 OpenSSL/1.0.2j DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Wed Jun 27 05:52:00 2018] [error] [client ::1] script '/Applications/MAMP/htdocs/soft-dev/array-test.php' not found or unable to stat
+[Wed Jun 27 05:57:00 2018] [notice] caught SIGTERM, shutting down
+[Wed Jun 27 07:26:13 2018] [notice] Digest: generating secret for digest authentication ...
+[Wed Jun 27 07:26:13 2018] [notice] Digest: done
+[Wed Jun 27 07:26:13 2018] [notice] FastCGI: process manager initialized (pid 12524)
+[Wed Jun 27 07:26:13 2018] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.1 mod_ssl/2.2.34 OpenSSL/1.0.2j DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Wed Jun 27 07:56:52 2018] [notice] caught SIGTERM, shutting down
+[Wed Jun 27 09:46:06 2018] [notice] Digest: generating secret for digest authentication ...
+[Wed Jun 27 09:46:06 2018] [notice] Digest: done
+[Wed Jun 27 09:46:06 2018] [notice] FastCGI: process manager initialized (pid 13725)
+[Wed Jun 27 09:46:06 2018] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.1 mod_ssl/2.2.34 OpenSSL/1.0.2j DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Wed Jun 27 11:23:28 2018] [notice] caught SIGTERM, shutting down
+[Wed Jun 27 12:03:09 2018] [notice] Digest: generating secret for digest authentication ...
+[Wed Jun 27 12:03:09 2018] [notice] Digest: done
+[Wed Jun 27 12:03:09 2018] [notice] FastCGI: process manager initialized (pid 14968)
+[Wed Jun 27 12:03:09 2018] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.1 mod_ssl/2.2.34 OpenSSL/1.0.2j DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Wed Jun 27 12:18:09 2018] [notice] caught SIGTERM, shutting down
+[Wed Jun 27 15:39:47 2018] [notice] Digest: generating secret for digest authentication ...
+[Wed Jun 27 15:39:47 2018] [notice] Digest: done
+[Wed Jun 27 15:39:47 2018] [notice] FastCGI: process manager initialized (pid 16146)
+[Wed Jun 27 15:39:47 2018] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.1 mod_ssl/2.2.34 OpenSSL/1.0.2j DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Wed Jun 27 15:53:45 2018] [error] [client ::1] script '/Applications/MAMP/htdocs/forms.php' not found or unable to stat
+[Wed Jun 27 17:01:49 2018] [error] [client ::1] script '/Applications/MAMP/htdocs/soft-dev/quiz-into.php' not found or unable to stat
+[Wed Jun 27 17:30:09 2018] [error] [client ::1] script '/Applications/MAMP/htdocs/soft-dev/quizintro.php' not found or unable to stat
+[Thu Jun 28 13:17:30 2018] [notice] caught SIGTERM, shutting down
+[Thu Jun 28 17:17:35 2018] [notice] Digest: generating secret for digest authentication ...
+[Thu Jun 28 17:17:35 2018] [notice] Digest: done
+[Thu Jun 28 17:17:35 2018] [notice] FastCGI: process manager initialized (pid 22321)
+[Thu Jun 28 17:17:35 2018] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.1 mod_ssl/2.2.34 OpenSSL/1.0.2j DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Thu Jun 28 18:58:13 2018] [error] [client ::1] script '/Applications/MAMP/htdocs/soft-dev/quiz-into.php' not found or unable to stat
+[Thu Jun 28 20:32:57 2018] [notice] caught SIGTERM, shutting down
+[Fri Jun 29 08:47:34 2018] [notice] Digest: generating secret for digest authentication ...
+[Fri Jun 29 08:47:34 2018] [notice] Digest: done
+[Fri Jun 29 08:47:34 2018] [notice] FastCGI: process manager initialized (pid 26898)
+[Fri Jun 29 08:47:34 2018] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.1 mod_ssl/2.2.34 OpenSSL/1.0.2j DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Fri Jun 29 14:25:09 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/myphpadmin
+[Fri Jun 29 17:16:17 2018] [notice] caught SIGTERM, shutting down
+[Fri Jun 29 17:16:40 2018] [notice] Digest: generating secret for digest authentication ...
+[Fri Jun 29 17:16:40 2018] [notice] Digest: done
+[Fri Jun 29 17:16:40 2018] [notice] FastCGI: process manager initialized (pid 30677)
+[Fri Jun 29 17:16:40 2018] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.1 mod_ssl/2.2.34 OpenSSL/1.0.2j DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Fri Jun 29 17:36:15 2018] [notice] caught SIGTERM, shutting down
+[Fri Jun 29 18:52:14 2018] [notice] Digest: generating secret for digest authentication ...
+[Fri Jun 29 18:52:14 2018] [notice] Digest: done
+[Fri Jun 29 18:52:14 2018] [notice] FastCGI: process manager initialized (pid 31625)
+[Fri Jun 29 18:52:14 2018] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.1 mod_ssl/2.2.34 OpenSSL/1.0.2j DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Fri Jun 29 21:06:08 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/soft-dev/address-book/create-contact
+[Fri Jun 29 21:59:13 2018] [notice] caught SIGTERM, shutting down
+[Mon Jul 02 10:36:41 2018] [notice] Digest: generating secret for digest authentication ...
+[Mon Jul 02 10:36:41 2018] [notice] Digest: done
+[Mon Jul 02 10:36:41 2018] [notice] FastCGI: process manager initialized (pid 35757)
+[Mon Jul 02 10:36:41 2018] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.1 mod_ssl/2.2.34 OpenSSL/1.0.2j DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Mon Jul 02 12:42:04 2018] [notice] caught SIGTERM, shutting down
+[Mon Jul 02 18:52:21 2018] [notice] Digest: generating secret for digest authentication ...
+[Mon Jul 02 18:52:21 2018] [notice] Digest: done
+[Mon Jul 02 18:52:21 2018] [notice] FastCGI: process manager initialized (pid 1444)
+[Mon Jul 02 18:52:21 2018] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.1 mod_ssl/2.2.34 OpenSSL/1.0.2j DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Mon Jul 02 18:52:23 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/docs-assets, referer: http://localhost:8888/MAMP/?language=English
+[Mon Jul 02 19:28:32 2018] [error] [client ::1] script '/Applications/MAMP/htdocs/zbook-class/7-2-18/testingfriends-accept.php' not found or unable to stat
+[Mon Jul 02 21:57:05 2018] [notice] caught SIGTERM, shutting down
+[Wed Jul 04 13:59:25 2018] [notice] Digest: generating secret for digest authentication ...
+[Wed Jul 04 13:59:25 2018] [notice] Digest: done
+[Wed Jul 04 13:59:25 2018] [notice] FastCGI: process manager initialized (pid 6884)
+[Wed Jul 04 13:59:25 2018] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.1 mod_ssl/2.2.34 OpenSSL/1.0.2j DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Thu Jul 05 11:33:56 2018] [notice] caught SIGTERM, shutting down
+[Fri Jul 06 09:25:02 2018] [notice] Digest: generating secret for digest authentication ...
+[Fri Jul 06 09:25:02 2018] [notice] Digest: done
+[Fri Jul 06 09:25:02 2018] [notice] FastCGI: process manager initialized (pid 11929)
+[Fri Jul 06 09:25:02 2018] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.1 mod_ssl/2.2.34 OpenSSL/1.0.2j DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Fri Jul 06 15:25:22 2018] [notice] caught SIGTERM, shutting down
+[Fri Jul 06 18:46:05 2018] [notice] Digest: generating secret for digest authentication ...
+[Fri Jul 06 18:46:05 2018] [notice] Digest: done
+[Fri Jul 06 18:46:05 2018] [notice] FastCGI: process manager initialized (pid 16348)
+[Fri Jul 06 18:46:05 2018] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.1 mod_ssl/2.2.34 OpenSSL/1.0.2j DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Fri Jul 06 19:14:43 2018] [error] [client ::1] script '/Applications/MAMP/htdocs/zbook-class/7-4-18/live/login.php' not found or unable to stat
+[Fri Jul 06 19:16:21 2018] [notice] caught SIGTERM, shutting down
+[Thu Jul 19 22:37:19 2018] [notice] Digest: generating secret for digest authentication ...
+[Thu Jul 19 22:37:19 2018] [notice] Digest: done
+[Thu Jul 19 22:37:19 2018] [notice] FastCGI: process manager initialized (pid 39393)
+[Thu Jul 19 22:37:19 2018] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.1 mod_ssl/2.2.34 OpenSSL/1.0.2j DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Thu Jul 19 22:37:20 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/docs-assets, referer: http://localhost:8888/MAMP/?language=English
+[Thu Jul 19 22:51:26 2018] [notice] caught SIGTERM, shutting down
+[Mon Jul 23 10:02:03 2018] [notice] Digest: generating secret for digest authentication ...
+[Mon Jul 23 10:02:03 2018] [notice] Digest: done
+[Mon Jul 23 10:02:03 2018] [notice] FastCGI: process manager initialized (pid 862)
+[Mon Jul 23 10:02:03 2018] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.1 mod_ssl/2.2.34 OpenSSL/1.0.2j DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Mon Jul 23 10:02:04 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/docs-assets, referer: http://localhost:8888/MAMP/?language=English
+[Mon Jul 23 11:17:00 2018] [error] [client ::1] script '/Applications/MAMP/htdocs/zbook-class/7-6-18/live/login.php' not found or unable to stat
+[Mon Jul 23 11:18:50 2018] [error] [client ::1] script '/Applications/MAMP/htdocs/zbook-class/7-6-18/live/inedx.php' not found or unable to stat
+[Mon Jul 23 11:19:10 2018] [error] [client ::1] script '/Applications/MAMP/htdocs/zbook-class/7-6-18/live/process/index.php' not found or unable to stat
+[Mon Jul 23 18:43:25 2018] [notice] caught SIGTERM, shutting down
+[Tue Jul 24 10:06:33 2018] [notice] Digest: generating secret for digest authentication ...
+[Tue Jul 24 10:06:33 2018] [notice] Digest: done
+[Tue Jul 24 10:06:33 2018] [notice] FastCGI: process manager initialized (pid 4660)
+[Tue Jul 24 10:06:33 2018] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.1 mod_ssl/2.2.34 OpenSSL/1.0.2j DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Tue Jul 24 10:12:47 2018] [error] [client ::1] script '/Applications/MAMP/htdocs/zbook-class/7-6-18/live/process/index.php' not found or unable to stat
+[Tue Jul 24 12:16:01 2018] [notice] caught SIGTERM, shutting down
+[Wed Jul 25 10:16:50 2018] [notice] Digest: generating secret for digest authentication ...
+[Wed Jul 25 10:16:50 2018] [notice] Digest: done
+[Wed Jul 25 10:16:50 2018] [notice] FastCGI: process manager initialized (pid 8615)
+[Wed Jul 25 10:16:50 2018] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.1 mod_ssl/2.2.34 OpenSSL/1.0.2j DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Wed Jul 25 10:33:48 2018] [notice] caught SIGTERM, shutting down
