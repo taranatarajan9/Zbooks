@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="http://localhost:8888/phpmyadmin/sql.php?db=software_dev&amp;table=tasks&amp;token=b8ec13094a863156eee678fa600b045e&amp;pos=0" uuid="68c13c0f-b819-4776-b1d0-98a89cc81d02">
+      <driver-ref>hsqldb.local</driver-ref>
+      <synchronize>true</synchronize>
+      <configured-by-url>true</configured-by-url>
+      <jdbc-driver>org.hsqldb.jdbc.JDBCDriver</jdbc-driver>
+      <jdbc-url>http://localhost:8888/phpmyadmin/sql.php?db=software_dev&amp;table=tasks&amp;token=b8ec13094a863156eee678fa600b045e&amp;pos=0</jdbc-url>
+    </data-source>
+  </component>
+</project>
